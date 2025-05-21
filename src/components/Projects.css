@@ -1,0 +1,55 @@
+.container1{
+    background-color: #fe6d73;
+}
+.container1 h1{
+    display: block;
+    justify-self: center;
+    font-size: 40px;
+    margin-top: 20%;
+    color: #f1faee;
+    padding-top: 40px;
+}
+.container1 p{
+    justify-self: center;
+    font-size: large;
+    margin-top: 30px;
+}
+.projects-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px;
+}
+.project1{
+    width: 500px;
+    object-fit: cover;
+    background-color: #f1faee;
+    padding: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.project1 img{
+    width: 500px;
+}
+.project1 h2{
+    margin-top: 30px;
+}
+.project1:hover{
+    box-shadow: 5px 1px 5px 1px #750610;
+}
+.project2{
+    width: 500px;
+    object-fit: cover;
+    background-color: #f1faee;
+    padding: 40px;
+    border-radius: 20px;    
+    cursor: pointer;
+}
+.project2 img{
+    width: 500px;
+}
+.project2 h2{
+    margin-top: 30px;
+}
+.project2:hover{
+    box-shadow: 5px 1px 5px 1px #750610;
+}
