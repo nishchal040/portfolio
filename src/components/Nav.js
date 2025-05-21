@@ -1,7 +1,7 @@
 import './Nav.css';
 function Nav(){
     return(
-    <div className="nav" id='home'>
+    <div className="nav">
         
         <ul>
             <img src='./images/nishchal.png'></img>
