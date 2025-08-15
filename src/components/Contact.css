@@ -41,4 +41,15 @@ textarea{
     width:40px;
     margin-top: 40px;
 }
+button{
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: medium;
+}
+button:hover{
+    background-color:#a8dadc;
+    color: white;
+    
+}
 
