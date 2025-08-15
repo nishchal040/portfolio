@@ -53,3 +53,6 @@
 .project2:hover{
     box-shadow: 5px 1px 5px 1px #750610;
 }
+a{
+    font-style:none;
+}
